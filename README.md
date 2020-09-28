@@ -1,7 +1,6 @@
 
-<p align="center">
-  ### Hi! I'm Sang! 👋
-</p>
+<h1 align="center">👋You found my GitHub👋/h1>
+<br>
 <!--
 **sang-bui/sang-bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
