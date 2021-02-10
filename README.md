@@ -2,7 +2,7 @@
 <h1 align="center">👋 I'm Sang! You found my GitHub 👋</h1>
 <br>
 
-- 🔭 I’m currently working on alot of projects!
-- 📱  I'm always on Discord at Sang#0095, don't be afraid to send an DM!
+- 🚧 Here you'll find many projects that I've decided to share publically that I've worked on!
+- 📱  Don't be afraid to contact me and ask questions about my projects!
 
 <br>
